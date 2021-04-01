@@ -1,13 +1,11 @@
 # <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm <a href="https://tonynguyenit18.github.io/">Tony<a></h1>
-
 <p align="center">
     <img width="200" src="https://github.com/tonynguyenit18/tonynguyenit18/blob/main/static/code-guy.jpeg">
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tonynguyenit18&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c" >
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonynguyenit18&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445" >
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonynguyenit18&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonynguyenit18&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+
+</div>
