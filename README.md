@@ -4,4 +4,7 @@
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tonynguyenit18&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonynguyenit18&layout=compact&custom_title=I%20use&title_color=f8333c)
+
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonynguyenit18&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
