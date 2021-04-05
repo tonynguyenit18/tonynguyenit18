@@ -17,6 +17,11 @@
 
 <h3>Happy Writing <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
 
+**Medium**
+
 ![Medium Cards](https://github-readme-social-article.vercel.app/medium/@tonynguyenit)
 
+**Devto**
+
+![Medium Cards](https://github-readme-social-article.vercel.app/devto/tonynguyenit?top=2)
  
